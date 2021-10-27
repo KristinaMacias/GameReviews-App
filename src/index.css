@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+  color: #444;
+}
+
+#nav-bar {
+  margin: 0;
+}
+
+#main-container {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+#edit-button {
+  margin-bottom: 0 !important;
+  margin-right: 0.5rem;
+}
+
+#metroid-img {
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 2px;
+  margin-bottom: 60px;
+}
+
+#review-tag {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+#console-cards {
+  margin-top: 90px;
+  margin-bottom: 100px;
+}
+#switch-card {
+  height: 250px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+#xbox-card {
+  height: 250px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+#ps-card {
+  height: 250px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+#switch-card:hover {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
+#xbox-card:hover {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
+#ps-card:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=30);
+}
